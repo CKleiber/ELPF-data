@@ -23,3 +23,6 @@ Countries included in the sampling:
 - Spain (EU)
 - Switzerland
 - United Kingdom
+
+Example image of the data images with labels:
+![alt text](image.png)
